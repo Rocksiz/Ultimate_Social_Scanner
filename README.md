@@ -55,5 +55,5 @@ This script is provided as-is and does not guarantee the accuracy or availabilit
 Please note that excessive and frequent requests to websites may violate their terms of service. Use this script responsibly and with caution.
 
 ---
-
+Bash Scrippt will be uploaded soon.
 Made with ❤️ by Rocksiz
