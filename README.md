@@ -1,4 +1,4 @@
-## The Ultimate Social Scanner
+## The Ultimate Social Scanner (TUSS)
 
 The Ultimate Social Scanner is a Python script that allows you to check the availability of a username on various social media websites. It helps you identify if a username is already taken on popular social media platforms.
 
@@ -26,7 +26,7 @@ pip install requests tabulate
 3. Run the script using the following command:
 
    ```shell
-   python social_scanner.py
+   python tuss.py
    ```
 
 4. You will be prompted to enter a username to check. Enter the desired username and press Enter.
